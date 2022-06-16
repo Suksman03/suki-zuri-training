@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\frontend2"
+		},
+		{
+			"path": "..\\frontend_mentor"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "workspace"
+	}
+}
